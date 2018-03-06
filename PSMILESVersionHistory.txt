@@ -21,8 +21,23 @@
 --------------------------------------------------------------------------------
 PSMILES Version 1.0.0.0
 --------------------------------------------------------------------------------
-PSmiles.jar dependencies:
-  None
+for Java 8 or higher
+
+Authors:
+  - Karina van den Broek (karina.broek@studmail.w-hs.de)
+  - Mirco Daniel (mirco.daniel@w-hs.de)
+  - Matthias Epple (matthias.epple@uni-due.de) 
+  - Hubert Kuhn (kuhn@molecular-dynamics.de)
+  - Jonas Schaub (jonas.schaub@studmail.w-hs.de)
+  - Achim Zielesny (achim.zielesny@w-hs.de)
+
+Acknowledgements: 
+  Many thanks to the development and project team that created the open 
+  GraphStream dynamic graph library as well as the Apache Commons contributors. 
+  The support of GNWI – Gesellschaft für naturwissenschaftliche Informatik mbH, 
+  Oer-Erkenschwick, Germany, is gratefully acknowledged.
+
+PSmiles.jar has no dependencies
   
 PSmilesToGraphStream.jar dependencies:
   - PSmiles.jar
@@ -43,5 +58,9 @@ PSmilesViewer.jar dependcies:
   - commons-io-2.5.jar
       Apache Commons IO (http://commons.apache.org/proper/commons-io/) 
       Version 2.5
+
+Windows OS installer for PSmilesViewer application:      
+  Install PSmilesViewer 1-0-0-0.exe
+        
 --------------------------------------------------------------------------------
 Basic operational version
