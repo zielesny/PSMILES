@@ -61,6 +61,5 @@ PSmilesViewer.jar dependcies:
 
 Windows OS installer for PSmilesViewer application:      
   Install PSmilesViewer 1-0-0-0.exe
-        
 --------------------------------------------------------------------------------
 Basic operational version
