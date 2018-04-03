@@ -9,4 +9,5 @@ PSMILES uses the [GraphStream](http://graphstream-project.org/) and [Apache Comm
 PSMILES is currently under scientific review - additional information will be published soon.
 
 Acknowledgements
+
 The support of [GNWI - Gesellschaft für naturwissenschaftliche Informatik mbH](http://www.gnwi.de) is gratefully acknowledged.
