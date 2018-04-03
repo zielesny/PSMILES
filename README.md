@@ -7,3 +7,6 @@ An open Java library for PSMILES structure handling and mesoscopic simulation su
 PSMILES uses the [GraphStream](http://graphstream-project.org/) and [Apache Commons IO](http://commons.apache.org/proper/commons-io/) libraries and is published as open source under the GNU General Public License version 3. PSmiles.jar is a Java library for PSMILES handling and mesoscopic simulation support. PSmilesToGraphStream.jar is a connection library used by PSmilesViewer.jar, a Java Graphical User Interface (GUI) viewer application for visual topological inspection and manipulation of PSMILES molecule definitions. This repository contains the Java bytecode libraries (including the GraphStream and Apache Commons Lang libraries), a Windows OS installer for the PSmilesViewer GUI application, all Javadoc HTML documentations and the Netbeans source code packages including Unit tests.
 
 PSMILES is currently under scientific review - additional information will be published soon.
+
+Acknowledgements
+The support of [GNWI - Gesellschaft für naturwissenschaftliche Informatik mbH](http://www.gnwi.de) is gratefully acknowledged.
